@@ -29,4 +29,6 @@ Analyzed Myntra’s fashion dataset using Excel to uncover insights on pricing, 
 
   🔗 Connect With Me
 
-   LinkedIn — https://www.linkedin.com/in/prakash-chawda-bb1048395     d   Email - prakashchawda2805@gmail.comrive - https://drive.google.com/drive/folders/1VcTpaxIC-DIDYIc8WhQ
+   LinkedIn — https://www.linkedin.com/in/prakash-chawda-bb1048395  
+   Email - prakashchawda2805@gmail.com
+   Google Drive - https://drive.google.com/drive/folders/1VcTpaxIC-DIDYIc8WhQ
